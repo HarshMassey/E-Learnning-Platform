@@ -83,12 +83,6 @@ Teacher Side URL
 Homepage
 ![e-learn](./images/Web%20capture_18-6-2022_144420_localhost.jpeg)
 
-All Course Page
-![e-learn](./images/Web%20capture_18-6-2022_144450_localhost.jpeg)
-
-Single Course Viewing Page
-![e-learn](./images/Web%20capture_18-6-2022_14454_localhost.jpeg)
-
 Course Created by Logged Teacher
 ![e-learn](./images/Web%20capture_18-6-2022_144552_localhost.jpeg)
 
@@ -97,12 +91,6 @@ Create New Course
 
 Course Update Page
 ![e-learn](./images/Web%20capture_18-6-2022_144645_localhost.jpeg)
-
-Teacher Home Page When Logged Out
-![e-learn](./images/Web%20capture_18-6-2022_144711_localhost.jpeg)
-
-When Teacher is Logged In
-![e-learn](./images/Web%20capture_18-6-2022_144523_localhost.jpeg)
 
 Teacher Login
 ![e-learn](./images/Web%20capture_18-6-2022_144828_localhost.jpeg)
